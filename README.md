@@ -7,5 +7,5 @@
 
 مع خالص التحية والتقدير،
 
- الطالب:  محمد بشير مفتاح  AI groupe 2 
+ الطالب:  محمد البشير مفتاح  AI groupe 2 
 رابط المشروع: https://github.com/bachirmeftah/vscode-lab
